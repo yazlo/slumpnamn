@@ -1,0 +1,16 @@
+*{
+    padding:0;
+    margin:0;
+    font-family: comic sans ms;
+}
+body{
+    background:pink;
+}
+div{
+    width:270px;
+    margin:200px auto 0 auto;
+}
+ol{
+    list-style:none;
+    text-align: center;
+}
